@@ -1,3 +1,5 @@
+# For licencing, check LICENCE file.
+
 import os
 import SaveLoadEngine
 import re

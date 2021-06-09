@@ -1,3 +1,4 @@
+# For licencing, check LICENCE file.
 import os.path
 import ast
 
